@@ -1,0 +1,45 @@
+1. trueknow - 
+static code - not done
+not integrated with BeanStalk
+Android app not created
+
+
+3. Daily-Deals - 
+just started with js, html and css
+not integrated
+
+
+2. Rapid_Contact_Centre - 
+AWS technology - Lambda, API Gateway, Lex, Connect
+Python Flask
+Seems built during the day of the hackathon
+
+
+4. slumPREDICT - 
+Pre-made project; just reused the existing one
+uses ML model for prediction
+TensorFlow, Matplotlib, python
+pics collected from spacenet
+not necessarily a slum detection
+
+
+5. Hope - 
+pre-made project
+Nodejs, Mongo, JS framework
+AWS service - Rekognition being invoked from JS
+API being invoked
+
+
+6. iTrustWs & iTrustWeb - 
+MongoDB, EC2 hosted
+Code seems to be making an interaction
+seems premade with some hacks
+
+
+7. xor-hackathon - 
+RDS endpoint being used
+not hosted on EC2 - mostly local
+search, results and everything is static
+screenshot/mockups for most of the flow
+working code with data in DB
+
